@@ -2,11 +2,11 @@
 
 
 ARIMA and Seasonal ARIMA
-Autoregressive Integrated Moving Averages
-The general process for ARIMA models is the following:
+1. Autoregressive Integrated Moving Averages
+2. The general process for ARIMA models is the following:
 
-Visualize the Time Series Data
-Make the time series data stationary
-Plot the Correlation and AutoCorrelation Charts
-Construct the ARIMA Model or Seasonal ARIMA based on the data
-Use the model to make predictions
+3. Visualize the Time Series Data
+4. Make the time series data stationary
+5. Plot the Correlation and AutoCorrelation Charts
+6. Construct the ARIMA Model or Seasonal ARIMA based on the data
+7. Use the model to make predictions
